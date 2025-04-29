@@ -3,17 +3,17 @@ services:
     image: mongo:latest
     container_name: mongo
     ports:
-      - "27017:27017"
+      - "27018:27018"
     volumes:
       - mongo_data:/data/db
-      - ./mongo-init:/docker-entrypoint-initdb.d
+      - ./mongo-init/:/docker-entrypoint-initdb.d/
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
       MONGO_INITDB_ROOT_PASSWORD: root
 
   navigo-backend:
-    image: henryarrovinproject/navigo-backend:latest
+    image: backend:1.0
     container_name: navigo-backend
     restart: always
     depends_on:
@@ -21,7 +21,8 @@ services:
     ports:
       - "8080:8080"
     environment:
-      MONGO_URI: mongodb://root:root@mongo:27017/local-db?authSource=admin
+      MONGO_URI: mongodb://root:root@127.0.0.1:27017/?authSource=admin
+      # MONGO_URI: mongodb://localhost:27017/local-db
 
 volumes:
   mongo_data:
