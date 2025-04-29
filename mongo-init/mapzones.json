@@ -1,0 +1,564 @@
+[{
+  "_id": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "name": "Main Hall",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 100,
+      "y": 100,
+      "_id": {
+        "$oid": "67eb7645793acf9dd1438a0d"
+      }
+    },
+    {
+      "x": 400,
+      "y": 100,
+      "_id": {
+        "$oid": "67eb7645793acf9dd1438a0e"
+      }
+    },
+    {
+      "x": 400,
+      "y": 400,
+      "_id": {
+        "$oid": "67eb7645793acf9dd1438a0f"
+      }
+    },
+    {
+      "x": 100,
+      "y": 400,
+      "_id": {
+        "$oid": "67eb7645793acf9dd1438a10"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [
+    {
+      "zone": {
+        "$oid": "67eb7a82ff7bb51e65df4562"
+      },
+      "connectionPoints": {
+        "from": {
+          "x": 400,
+          "y": 200
+        },
+        "to": {
+          "x": 400,
+          "y": 200
+        }
+      },
+      "_id": {
+        "$oid": "67eb7c7aff7bb51e65df4583"
+      }
+    },
+    {
+      "zone": {
+        "$oid": "67eb7aaaff7bb51e65df4569"
+      },
+      "connectionPoints": {
+        "from": {
+          "x": 400,
+          "y": 350
+        },
+        "to": {
+          "x": 400,
+          "y": 350
+        }
+      },
+      "_id": {
+        "$oid": "67eb7c7aff7bb51e65df4584"
+      }
+    }
+  ],
+  "svgPath": "M100,100 L400,100 L400,400 L100,400 Z",
+  "__v": 0,
+  "innerZones": [
+    {
+      "$oid": "67f949fcabe667ab1e446257"
+    },
+    {
+      "$oid": "67f96f637022d28e867143a1"
+    },
+    {
+      "$oid": "67f970be7022d28e86714419"
+    },
+    {
+      "$oid": "67f9729d7022d28e867144a8"
+    },
+    {
+      "$oid": "67f9753f7022d28e86714670"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67eb7a82ff7bb51e65df4562"
+  },
+  "name": "Room A",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 400,
+      "y": 100,
+      "_id": {
+        "$oid": "67eb7a82ff7bb51e65df4563"
+      }
+    },
+    {
+      "x": 700,
+      "y": 100,
+      "_id": {
+        "$oid": "67eb7a82ff7bb51e65df4564"
+      }
+    },
+    {
+      "x": 700,
+      "y": 250,
+      "_id": {
+        "$oid": "67eb7a82ff7bb51e65df4565"
+      }
+    },
+    {
+      "x": 400,
+      "y": 250,
+      "_id": {
+        "$oid": "67eb7a82ff7bb51e65df4566"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [
+    {
+      "zone": {
+        "$oid": "67eb7645793acf9dd1438a0c"
+      },
+      "connectionPoints": {
+        "from": {
+          "x": 400,
+          "y": 200
+        },
+        "to": {
+          "x": 400,
+          "y": 200
+        }
+      },
+      "_id": {
+        "$oid": "67eb7ce3ff7bb51e65df458c"
+      }
+    }
+  ],
+  "svgPath": "M400,100 L700,100 L700,250 L400,250 Z",
+  "__v": 0,
+  "innerZones": []
+},
+{
+  "_id": {
+    "$oid": "67eb7aaaff7bb51e65df4569"
+  },
+  "name": "Room B",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 400,
+      "y": 250,
+      "_id": {
+        "$oid": "67eb7aaaff7bb51e65df456a"
+      }
+    },
+    {
+      "x": 700,
+      "y": 250,
+      "_id": {
+        "$oid": "67eb7aaaff7bb51e65df456b"
+      }
+    },
+    {
+      "x": 700,
+      "y": 400,
+      "_id": {
+        "$oid": "67eb7aaaff7bb51e65df456c"
+      }
+    },
+    {
+      "x": 400,
+      "y": 400,
+      "_id": {
+        "$oid": "67eb7aaaff7bb51e65df456d"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [
+    {
+      "zone": {
+        "$oid": "67eb7645793acf9dd1438a0c"
+      },
+      "connectionPoints": {
+        "from": {
+          "x": 400,
+          "y": 350
+        },
+        "to": {
+          "x": 400,
+          "y": 350
+        }
+      },
+      "_id": {
+        "$oid": "67eb7d32ff7bb51e65df4593"
+      }
+    }
+  ],
+  "svgPath": "M400,250 L700,250 L700,400 L400,400 Z",
+  "__v": 0,
+  "innerZones": [
+    {
+      "$oid": "67f979397022d28e86714882"
+    }
+  ]
+},
+{
+  "_id": {
+    "$oid": "67f949fcabe667ab1e446257"
+  },
+  "name": "Fast Food",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 100,
+      "y": 200,
+      "_id": {
+        "$oid": "67f949fcabe667ab1e446258"
+      }
+    },
+    {
+      "x": 150,
+      "y": 200,
+      "_id": {
+        "$oid": "67f949fcabe667ab1e446259"
+      }
+    },
+    {
+      "x": 150,
+      "y": 300,
+      "_id": {
+        "$oid": "67f949fcabe667ab1e44625a"
+      }
+    },
+    {
+      "x": 100,
+      "y": 300,
+      "_id": {
+        "$oid": "67f949fcabe667ab1e44625b"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "innerZones": [],
+  "svgPath": "M100,200 L150,200 L150,300 L100,300 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f96f637022d28e867143a1"
+  },
+  "name": "Frozen foods 1",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 200,
+      "y": 350,
+      "_id": {
+        "$oid": "67f96f637022d28e867143a2"
+      }
+    },
+    {
+      "x": 350,
+      "y": 350,
+      "_id": {
+        "$oid": "67f96f637022d28e867143a3"
+      }
+    },
+    {
+      "x": 350,
+      "y": 399,
+      "_id": {
+        "$oid": "67f96f637022d28e867143a4"
+      }
+    },
+    {
+      "x": 200,
+      "y": 399,
+      "_id": {
+        "$oid": "67f96f637022d28e867143a5"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "innerZones": [],
+  "svgPath": "M200,350 L350,350 L350,400 L200,400 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f970be7022d28e86714419"
+  },
+  "name": "Frozen foods 2",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 200,
+      "y": 100,
+      "_id": {
+        "$oid": "67f970be7022d28e8671441a"
+      }
+    },
+    {
+      "x": 350,
+      "y": 100,
+      "_id": {
+        "$oid": "67f970be7022d28e8671441b"
+      }
+    },
+    {
+      "x": 350,
+      "y": 150,
+      "_id": {
+        "$oid": "67f970be7022d28e8671441c"
+      }
+    },
+    {
+      "x": 200,
+      "y": 150,
+      "_id": {
+        "$oid": "67f970be7022d28e8671441d"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "innerZones": [],
+  "svgPath": "M200,100 L350,100 L350,150 L200,150 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9729d7022d28e867144a8"
+  },
+  "name": "Meat",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 100,
+      "y": 300,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144a9"
+      }
+    },
+    {
+      "x": 150,
+      "y": 300,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144aa"
+      }
+    },
+    {
+      "x": 150,
+      "y": 350,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144ab"
+      }
+    },
+    {
+      "x": 200,
+      "y": 350,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144ac"
+      }
+    },
+    {
+      "x": 200,
+      "y": 399,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144ad"
+      }
+    },
+    {
+      "x": 100,
+      "y": 399,
+      "_id": {
+        "$oid": "67f9729d7022d28e867144ae"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "innerZones": [],
+  "svgPath": "M100,300 L150,300 L150,350 L200,350 L200,400 L100,400 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f9753f7022d28e86714670"
+  },
+  "name": "Dairy",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 100,
+      "y": 100,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714671"
+      }
+    },
+    {
+      "x": 200,
+      "y": 100,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714672"
+      }
+    },
+    {
+      "x": 200,
+      "y": 150,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714673"
+      }
+    },
+    {
+      "x": 150,
+      "y": 150,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714674"
+      }
+    },
+    {
+      "x": 150,
+      "y": 200,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714675"
+      }
+    },
+    {
+      "x": 100,
+      "y": 200,
+      "_id": {
+        "$oid": "67f9753f7022d28e86714676"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7645793acf9dd1438a0c"
+  },
+  "innerZones": [],
+  "svgPath": "M100,100 L200,100 L200,150 L150,150 L150,200 L100,200 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f976b97022d28e867146f6"
+  },
+  "name": "Bakery",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 650,
+      "y": 101,
+      "_id": {
+        "$oid": "67f977557022d28e867147c3"
+      }
+    },
+    {
+      "x": 699,
+      "y": 101,
+      "_id": {
+        "$oid": "67f977557022d28e867147c4"
+      }
+    },
+    {
+      "x": 699,
+      "y": 249,
+      "_id": {
+        "$oid": "67f977557022d28e867147c5"
+      }
+    },
+    {
+      "x": 650,
+      "y": 249,
+      "_id": {
+        "$oid": "67f977557022d28e867147c6"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7a82ff7bb51e65df4562"
+  },
+  "innerZones": [],
+  "svgPath": "M650,100 L700,100 L700,250 L650,250 Z",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67f979397022d28e86714882"
+  },
+  "name": "Electronics",
+  "floor": 1,
+  "vertices": [
+    {
+      "x": 650,
+      "y": 251,
+      "_id": {
+        "$oid": "67f979397022d28e86714883"
+      }
+    },
+    {
+      "x": 699,
+      "y": 251,
+      "_id": {
+        "$oid": "67f979397022d28e86714884"
+      }
+    },
+    {
+      "x": 699,
+      "y": 399,
+      "_id": {
+        "$oid": "67f979397022d28e86714885"
+      }
+    },
+    {
+      "x": 650,
+      "y": 399,
+      "_id": {
+        "$oid": "67f979397022d28e86714886"
+      }
+    }
+  ],
+  "isNavigable": true,
+  "adjacentZones": [],
+  "containedIn": {
+    "$oid": "67eb7aaaff7bb51e65df4569"
+  },
+  "innerZones": [],
+  "svgPath": "M650,250 L700,250 L700,400 L650,400 Z",
+  "__v": 0
+}]

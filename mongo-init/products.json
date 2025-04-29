@@ -1,0 +1,598 @@
+[{
+  "_id": {
+    "$oid": "67d31f8ef63962e376b868a0"
+  },
+  "name": "MediaMarkt",
+  "category": {
+    "$oid": "67d31453c5b170bfcb583ff1"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/1c/8a/87/3a/mediamarkt.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 150,
+      "y": 150
+    },
+    "zone": {
+      "$oid": "67eb7645793acf9dd1438a0c"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d320a4f63962e376b868a9"
+  },
+  "name": "KFC",
+  "category": {
+    "$oid": "67d313e9c5b170bfcb583fe5"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/5/57/KFC_logo-image.svg/1200px-KFC_logo-image.svg.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 250,
+      "y": 150
+    },
+    "zone": {
+      "$oid": "67eb7645793acf9dd1438a0c"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d320ecf63962e376b868ac"
+  },
+  "name": "McDonald's",
+  "category": {
+    "$oid": "67d313e9c5b170bfcb583fe5"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/McDonald%27s_square_2020.svg/800px-McDonald%27s_square_2020.svg.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 350,
+      "y": 150
+    },
+    "zone": {
+      "$oid": "67eb7645793acf9dd1438a0c"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d32173f63962e376b868af"
+  },
+  "name": "Rolex",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://www.pngplay.com/wp-content/uploads/13/Rolex-Logo-PNG-Photos.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 650,
+      "y": 150
+    },
+    "zone": {
+      "$oid": "67eb7a82ff7bb51e65df4562"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d321bdf63962e376b868b2"
+  },
+  "name": "Louis Vuitton",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://i.pinimg.com/474x/12/88/03/1288034e252f4f2068c6e922dd137d57.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 650,
+      "y": 350
+    },
+    "zone": {
+      "$oid": "67eb7aaaff7bb51e65df4569"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d321faf63962e376b868b5"
+  },
+  "name": "Gucci",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://images.seeklogo.com/logo-png/6/1/gucci-logo-png_seeklogo-64069.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0,
+  "location": {
+    "coordinates": {
+      "x": 125,
+      "y": 250
+    },
+    "zone": {
+      "$oid": "67eb7645793acf9dd1438a0c"
+    }
+  }
+},
+{
+  "_id": {
+    "$oid": "67d32279f63962e376b868b8"
+  },
+  "name": "Chanel",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/9/92/Chanel_logo_interlocking_cs.svg/1024px-Chanel_logo_interlocking_cs.svg.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d322f0f63962e376b868bb"
+  },
+  "name": "Levi's",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://allvectorlogo.com/img/2022/01/levis-logo-vector.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d323bbf63962e376b868be"
+  },
+  "name": "Mall Office",
+  "category": {
+    "$oid": "67d313e2c5b170bfcb583fe3"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://png.pngtree.com/element_our/20200610/ourmid/pngtree-shopping-mall-logo-image_2235997.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3241cf63962e376b868c1"
+  },
+  "name": "Zara",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://logomakerr.ai/blog/wp-content/uploads/2022/08/2019-to-Present-Zara-logo-design.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d324aaf63962e376b868c4"
+  },
+  "name": "McShark",
+  "category": {
+    "$oid": "67d31453c5b170bfcb583ff1"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://wienmitte-themall.at/wp-content/uploads/2021/10/WMTM_Mieterlogos_1080x1080_McShark.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32515f63962e376b868c7"
+  },
+  "name": "Nike",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://i.pinimg.com/736x/54/2c/68/542c68c7aef630bb18caeaec635aa7a3.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32546f63962e376b868ca"
+  },
+  "name": "Adidas",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://logos-world.net/wp-content/uploads/2020/04/Adidas-Logo.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d325c1f63962e376b868cd"
+  },
+  "name": "Primark",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://logos-world.net/wp-content/uploads/2023/02/Primark-Logo.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32648f63962e376b868d0"
+  },
+  "name": "H&M",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://brandslogos.com/wp-content/uploads/images/large/hm-logo-1.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3268af63962e376b868d3"
+  },
+  "name": "Vans",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://i.pinimg.com/736x/dc/03/89/dc03893a0baf50b2efbdede6350e4d67.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d326dcf63962e376b868d6"
+  },
+  "name": "Starbucks",
+  "category": {
+    "$oid": "67d313e9c5b170bfcb583fe5"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://upload.wikimedia.org/wikipedia/en/thumb/d/d3/Starbucks_Corporation_Logo_2011.svg/640px-Starbucks_Corporation_Logo_2011.svg.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32727f63962e376b868d9"
+  },
+  "name": "7-Eleven",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/7-eleven_logo.svg/2110px-7-eleven_logo.svg.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d327a3f63962e376b868dc"
+  },
+  "name": "Victoria's Secret",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://logos-world.net/wp-content/uploads/2020/05/Victoria-Secret-Emblem.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32834f63962e376b868df"
+  },
+  "name": "Foot Locker",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://images.seeklogo.com/logo-png/5/2/foot-locker-logo-png_seeklogo-56477.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32896f63962e376b868e2"
+  },
+  "name": "Pandora",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://pandoragroup.com/-/media/images/media/logo/pandora_logo_blank.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3291ff63962e376b868e5"
+  },
+  "name": "Pharmacy",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://static.vecteezy.com/system/resources/previews/015/394/311/non_2x/medical-pharmacy-logo-design-vector.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3299af63962e376b868e8"
+  },
+  "name": "GameStop",
+  "category": {
+    "$oid": "67d31453c5b170bfcb583ff1"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://1000logos.net/wp-content/uploads/2022/10/GameStop-logo.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32a22f63962e376b868eb"
+  },
+  "name": "Claire's",
+  "category": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://images.seeklogo.com/logo-png/52/2/claires-logo-png_seeklogo-527001.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32a87f63962e376b868ee"
+  },
+  "name": "Tobacco Shop",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://img.freepik.com/premium-vector/dark-concrete-texture-background-with-grunge-effect_278222-9796.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32aeff63962e376b868f1"
+  },
+  "name": "Sephora",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://1000logos.net/wp-content/uploads/2018/08/Sephora-Logo.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32b20f63962e376b868f4"
+  },
+  "name": "PetSmart",
+  "category": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://download.logo.wine/logo/PetSmart/PetSmart-Logo.wine.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32b89f63962e376b868f7"
+  },
+  "name": "Barbershop",
+  "category": {
+    "$oid": "67d313e2c5b170bfcb583fe3"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://marketplace.canva.com/EAF6DOq8wwA/2/0/1600w/canva-black-and-white-modern-illustrative-barbershop-logo-b6jlttO-nDo.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32bd5f63962e376b868fa"
+  },
+  "name": "Svarovski",
+  "category": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://i.pinimg.com/736x/91/cf/23/91cf23e133db1889dbb8130a0fd9d56b.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32c39f63962e376b868fd"
+  },
+  "name": "East Wing Toilet",
+  "category": {
+    "$oid": "67d31439c5b170bfcb583fed"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://img.freepik.com/free-photo/photo-wall-texture-pattern_58702-14875.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32c42f63962e376b86900"
+  },
+  "name": "North Wing Toilet",
+  "category": {
+    "$oid": "67d31439c5b170bfcb583fed"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://img.freepik.com/free-photo/photo-wall-texture-pattern_58702-14875.jpg",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d32c89f63962e376b86903"
+  },
+  "name": "Entrance",
+  "category": {
+    "$oid": "67d31446c5b170bfcb583fef"
+  },
+  "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "price": 100000,
+  "image": "https://www.pngplay.com/wp-content/uploads/6/Entry-Sign-Logo-PNG-Clipart-Background.png",
+  "coordinates": {
+    "x": 0,
+    "y": 0
+  },
+  "__v": 0
+}]

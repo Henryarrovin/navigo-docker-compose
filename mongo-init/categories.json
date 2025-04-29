@@ -1,0 +1,63 @@
+[{
+  "_id": {
+    "$oid": "67d30ca7bc9c5f17fe3a4e17"
+  },
+  "name": "Retail",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d313e2c5b170bfcb583fe3"
+  },
+  "name": "Services",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d313e9c5b170bfcb583fe5"
+  },
+  "name": "Food",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3140cc5b170bfcb583fe7"
+  },
+  "name": "Health & Beauty",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3141bc5b170bfcb583fe9"
+  },
+  "name": "Luxury Goods",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d3142ec5b170bfcb583feb"
+  },
+  "name": "Fashion",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d31439c5b170bfcb583fed"
+  },
+  "name": "Sanitary",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d31446c5b170bfcb583fef"
+  },
+  "name": "Entrace",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "67d31453c5b170bfcb583ff1"
+  },
+  "name": "Electronics",
+  "__v": 0
+}]
