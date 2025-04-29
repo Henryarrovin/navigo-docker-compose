@@ -3,10 +3,10 @@ services:
     image: mongo:latest
     container_name: mongo
     ports:
-      - "27018:27018"
+      - "27017:27017"
     volumes:
       - mongo_data:/data/db
-      - ./mongo-init/:/docker-entrypoint-initdb.d/
+      - ./mongo-seed:/docker-entrypoint-initdb.d
     restart: always
     environment:
       MONGO_INITDB_ROOT_USERNAME: root
@@ -21,8 +21,7 @@ services:
     ports:
       - "8080:8080"
     environment:
-      MONGO_URI: mongodb://root:root@127.0.0.1:27017/?authSource=admin
-      # MONGO_URI: mongodb://localhost:27017/local-db
+      MONGO_URI: mongodb://root:root@mongo:27017/local-db?authSource=admin
 
 volumes:
   mongo_data:
